@@ -35,10 +35,10 @@ This repository demonstrates how SSL/TLS **certificate pinning** works in the Th
 
 ## 🚀 Bypass Procedure
 
-1. Replace patched `libcoldstart.so with /data/data/com.instagram.barcelona/lib-compressed/libstartup.so`
+1. Replace patched `libstartup.so with /data/data/com.instagram.barcelona/lib-compressed/libstartup.so`
 2. Replace the patched library file:
    ```bash
-   adb push D:\patched\libcoldstart.so /data/data/com.instagram.barcelona/lib-compressed/libstartup.so
+   adb push D:\patched\libstartup.so /data/data/com.instagram.barcelona/lib-compressed/libstartup.so
 
 3. Use Proxypin / Reqable / Burp Suite / Mitmproxy for capturing traffics.
 
