@@ -1,4 +1,4 @@
-# 🔐 SSL Pinning Bypass — Facebook App
+# 🔐 SSL Pinning Bypass — Thrrads App
 
 This repository demonstrates how SSL/TLS **certificate pinning** works in the Threads app, along with a **practical example** of bypass techniques and HTTPS traffic capture.
 
