@@ -13,7 +13,7 @@ This repository demonstrates how SSL/TLS **certificate pinning** works in the Th
 ## ⚙️ Supported Architectures
 - **arm64 / aarch64**
 ---
-## Facebook App Version 
+## Threads App Version 
 - **410.0.0.37.71**
 ---
 
