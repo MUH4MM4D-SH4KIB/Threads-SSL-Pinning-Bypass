@@ -11,7 +11,8 @@ This repository demonstrates how SSL/TLS **certificate pinning** works in the **
 ---
 
 ## ⚙️ Supported Architectures
-- **arm64 / aarch64**
+- **arm64-v8a**
+- **x86_64**
 ---
 ## Threads App Version 
 - **410.0.0.37.71**
