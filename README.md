@@ -6,7 +6,7 @@ This repository demonstrates how SSL/TLS **certificate pinning** works in the **
 
 ## 🎥 Demo Video
 
-▶️ [Watch the demonstration](https://github.com/user-attachments/assets/05ff4d5d-de38-4519-8880-c254105e7501)
+▶️ [Watch the demonstration](https://github.com/user-attachments/assets/d286a3c0-3da3-4788-ad04-f730a42a8630)
 
 ---
 
@@ -15,7 +15,7 @@ This repository demonstrates how SSL/TLS **certificate pinning** works in the **
 - **x86_64**
 ---
 ## Threads App Version 
-- **410.0.0.37.71**
+- **411.0.0.0.75**
 ---
 
 ## 📱 Mobile Device Requirements
