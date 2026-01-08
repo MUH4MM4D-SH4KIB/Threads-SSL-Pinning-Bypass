@@ -6,7 +6,7 @@ This repository demonstrates how SSL/TLS **certificate pinning** works in the **
 
 ## 🎥 Demo Video
 
-▶️ [Watch the demonstration](https://github.com/user-attachments/assets/d286a3c0-3da3-4788-ad04-f730a42a8630)
+▶️ [Watch the demonstration](https://github.com/user-attachments/assets/07d6f0c1-903e-4c0b-944a-7bc65a2038a1)
 
 ---
 
@@ -28,7 +28,7 @@ This repository demonstrates how SSL/TLS **certificate pinning** works in the **
 
 ## 💻 Emulator Setup
 - Windows PC with:
-  - **Reqable**, **Burp Suite**, or **Mitmproxy** installed
+  - **Reqable**, **Burp Suite**,**Proxypin** or **Mitmproxy** installed
   - **Nox** or **LDPlayer** Android emulator
 
 ---
