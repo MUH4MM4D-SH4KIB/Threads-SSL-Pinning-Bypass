@@ -1,6 +1,6 @@
-# 🔐 SSL Pinning Bypass — Threads App
+# 🔐 SSL Pinning Bypass Threads App
 
-This repository shows how to Bypass Threads SSL Pinning and intercept Threads Traffic.
+Threads SSL Pinning Bypass and intercept Threads Traffic.
 
 ---
 
@@ -38,7 +38,6 @@ https://github.com/user-attachments/assets/07d6f0c1-903e-4c0b-944a-7bc65a2038a1
 
 - Use **Proxypin** / **Reqable** / **Burp Suite** / **Mitmproxy** for capturing traffics.
 
-keyword: 线程 SSL 绑定绕过, تجاوز ربط SSL للخيوط
 ## For latest SSL Pinning Bypassed Threads apk contract with me.
 <a href="https://t.me/MUH4MM4DSH4KIB" target="_blank">
   <img src="https://img.shields.io/badge/💬_Chat_on_Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=121212&color=26A5E4&logoWidth=20" alt="Telegram" style="border-radius: 8px;"/>
