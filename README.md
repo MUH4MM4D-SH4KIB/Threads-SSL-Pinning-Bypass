@@ -1,12 +1,12 @@
-# 🔐 SSL Pinning Bypass — Thrrads App
+# 🔐 SSL Pinning Bypass — Threads App
 
-This repository demonstrates how SSL/TLS **certificate pinning** works in the **Threads** app, along with a **practical example** of bypass techniques and HTTPS traffic capture.
+This repository shows how to Bypass Threads SSL Pinning and intercept Threads Traffic.
 
 ---
 
 ## 🎥 Demo Video
 
-▶️ [Watch the demonstration](https://github.com/user-attachments/assets/07d6f0c1-903e-4c0b-944a-7bc65a2038a1)
+https://github.com/user-attachments/assets/07d6f0c1-903e-4c0b-944a-7bc65a2038a1
 
 ---
 
