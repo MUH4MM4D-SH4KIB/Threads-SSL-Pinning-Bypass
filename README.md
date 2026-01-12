@@ -6,7 +6,7 @@ Threads SSL Pinning Bypass and intercept Threads Traffic.
 
 ## 🎥 Demo Video
 
-https://github.com/user-attachments/assets/07d6f0c1-903e-4c0b-944a-7bc65a2038a1
+▶️ [Watch the Demonstration](https://github.com/user-attachments/assets/07d6f0c1-903e-4c0b-944a-7bc65a2038a1)
 
 ---
 
