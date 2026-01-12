@@ -34,7 +34,7 @@ Threads SSL Pinning Bypass and intercept Threads Traffic.
 ---
 
 ## 🚀 Bypass Procedure
-- Install SSL Pinning Bypassed **Threads** apk
+- Install SSL Pinning Bypassed **Threads** app
 
 - Use **Proxypin** / **Reqable** / **Burp Suite** / **Mitmproxy** for capturing traffics.
 
