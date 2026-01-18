@@ -15,7 +15,7 @@ Threads SSL Pinning Bypass and intercept Threads Traffic.
 - **x86_64**
 ---
 ## Threads App Version 
-- **411.0.0.0.249**
+- **412.0.0.23.85**
 ---
 
 ## 📱 Mobile Device Requirements
