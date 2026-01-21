@@ -6,9 +6,10 @@ Threads SSL Pinning Bypass and intercept Threads Traffic.
 
 ## 🎥 Evidence 
 
-<img width="720" height="1640" alt="Image" src="https://github.com/user-attachments/assets/e9fc58b9-8912-496a-a475-b88454e12838" />
+<img width="720" height="1640" alt="Image" src="https://github.com/user-attachments/assets/5cc48828-5446-4d7d-9a0c-c4a125ea282c" />
 
-▶️ [Watch the Demonstration](https://github.com/user-attachments/assets/bebf40ab-9cc4-4a3e-a71e-6b77441ed7ef)
+
+▶️ [Watch the Demonstration]()
 
 ---
 
@@ -17,7 +18,7 @@ Threads SSL Pinning Bypass and intercept Threads Traffic.
 - **x86_64**
 ---
 ## Threads App Version 
-- **412.0.0.23.85**
+- **413.0.0.40.83**
 ---
 
 ## 📱 Mobile Device Requirements
