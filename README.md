@@ -1,6 +1,6 @@
 # 🔐 SSL Pinning Bypass Threads App
 
-Threads SSL Pinning Bypass and intercept Threads Traffic.
+Threads SSL Pinning Bypass for Android – intercept Threads traffic.
 
 ---
 
